@@ -1,0 +1,4 @@
+enum ImageConvertResult {
+  success,
+  error;
+}

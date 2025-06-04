@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      freezed:freezed:
+        options:
+          make_collections_unmodifiable: false
+          copy_with: false
+          to_string_override: false
